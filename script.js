@@ -47,7 +47,7 @@ window.addEventListener('load', revealOnScroll);
 
 // Carrossel
 const images = [
-  './img/trator.avif',
+  './img/campo.png',
   './img/malte.png',
   './img/cidade.png'
 ];
